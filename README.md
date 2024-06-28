@@ -1,14 +1,7 @@
 # Cub3D
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-    <video width="320" height="240" controls>
-        <source src="screen.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-</body>
-</html>
+
+Regardez une démonstration de mon projet :
+
+[![Démo Cub3D](https://i.vimeocdn.com/video/945936290_640x360.jpg)](https://vimeo.com/970580684)
+
+Cliquez sur l'image pour voir la vidéo sur Vimeo.
