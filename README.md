@@ -2,6 +2,14 @@
   <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/cub3de.png" alt="Cub3D 42 project badge"/>
 </p>
 
+## 🎥 Demo Video
+
+Click below to watch a demo of the Cub3D project:  
+
+➡️ **[Watch my 3D Game Demo on Vimeo](https://vimeo.com/970580684)** ⬅️  
+
+## 📚 Useful Resources
+
 Cub3D is a 42 school team project aimed at creating a dynamic 3D maze exploration experience. Using the [MiniLibX library](https://github.com/42Paris/minilibx-linux), we implement raycasting in the style of the classic [Wolfenstein 3D](http://users.atw.hu/wolf3d/), the first true FPS in video game history.
 
 ## 🛠 Clone the Repository
@@ -54,13 +62,7 @@ Example:
 - **Right Arrow** - Rotate right  
 - **Mouse** - Rotate view (bonus only)  
 
-## 🎥 Demo Video
 
-Click below to watch a demo of the Cub3D project:  
-
-➡️ **[Watch my 3D Game Demo on Vimeo](https://vimeo.com/970580684)** ⬅️  
-
-## 📚 Useful Resources
 
 - **MiniLibX**: [Hsmits MiniLibX documentation](https://harm-smits.github.io/42docs/libs/minilibx)  
 - **MiniLibX**: [Gontjarow's MiniLibX tutorial](https://gontjarow.github.io/MiniLibX/)  
