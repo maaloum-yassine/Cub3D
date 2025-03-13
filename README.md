@@ -1,6 +1,12 @@
 <p align="center">
-  <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/cub3de.png" alt="Cub3D 42 project badge"/>
+  <img src="https://github.com/maaloum-yassine/42/blob/main/logo_project42/cub3de.png" alt="Cub3D 42 project badge"/>
 </p>
+
+## 🎥 Score 🥇✅
+<p align="center">
+  <img src="https://github.com/maaloum-yassine/42/blob/main/score/cub3d.png" alt="Score 42 project 115"/>
+</p>
+
 
 ## 🎥 Demo Video
 
