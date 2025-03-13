@@ -8,11 +8,20 @@
 </p>
 
 
-## 🎥 Demo Video
 
-Click below to watch a demo of the Cub3D project:  
+---
 
-➡️ **[Watch my 3D Game Demo on Vimeo](https://vimeo.com/970580684)** ⬅️  
+## 🎥 **Demo Video**
+<div align="center">
+  <strong style="font-size: 20px; color: #0073e6;">Click below to watch the cub3d_42 project:</strong>  
+  <br>
+  <a href="https://vimeo.com/970580684" style="font-size: 22px; font-weight: bold; color: #FF6347; text-decoration: none; background-color: #f0f0f0; padding: 15px 30px; border-radius: 8px; border: 2px solid #FF6347;">
+    ➡️ **[Watch my CUB3D_42 on Vimeo]** ⬅️
+  </a>
+</div>
+
+---
+
 
 ## 📚 Useful Resources
 
